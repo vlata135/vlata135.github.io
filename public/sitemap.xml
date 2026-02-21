@@ -56,13 +56,9 @@
     <loc>http://localhost:1313/tags/uart/</loc>
     <lastmod>2026-02-21T01:08:56+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/el/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/motor-control/</loc>
   </url><url>
     <loc>http://localhost:1313/motor_control/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/reinforcement-learning/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url>

@@ -23,24 +23,10 @@
       <description></description>
     </item>
     <item>
-      <title>El</title>
-      <link>http://localhost:1313/categories/el/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/el/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Motor Control</title>
       <link>http://localhost:1313/categories/motor-control/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/motor-control/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reinforcement Learning</title>
-      <link>http://localhost:1313/categories/reinforcement-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/reinforcement-learning/</guid>
       <description></description>
     </item>
   </channel>

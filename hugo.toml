@@ -3,7 +3,6 @@ languageCode = 'en'
 title = 'Vlata Robotics'
 theme = 'PaperMod'
 
-# Đưa menu ra ngoài hoặc lên trên [params]
 [[menu.main]]
     identifier = "embedded"
     name = "Embedded"
