@@ -1,0 +1,49 @@
+baseURL = 'https://vlata135.github.io/'
+languageCode = 'en'
+title = 'Vlata Robotics'
+theme = 'PaperMod'
+
+# Đưa menu ra ngoài hoặc lên trên [params]
+[[menu.main]]
+    identifier = "embedded"
+    name = "Embedded"
+    url = "/categories/embedded"
+    weight = 1
+[[menu.main]]
+    identifier = "rl"
+    name = "Reinforcement Learning"
+    url = "/categories/rl"
+    weight = 3
+[[menu.main]]
+    identifier = "control"
+    name = "Control Theory"
+    url = "/categories/control-theory"
+    weight = 4
+[[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags"
+    weight = 5
+[[menu.main]]
+    name = "Search"
+    url = "search/"
+    weight = 10
+
+[params]
+    env = 'production'
+    description = 'Simple Blog'
+    author = 'Vlata Than'
+    
+    ShowSearchButton = true  
+    ShowCodeCopyButtons = true
+    disableScrollToTop = false
+    
+    math = true 
+    mainSections = ["embedded", "rl"]
+
+[taxonomies]
+    category = 'categories'
+    tag = 'tags'
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
